@@ -1,0 +1,56 @@
+projectName: Cybersecurity Terminology
+jsonFilePath: ./input.json
+baseUrl: https://gracker.ai
+portalHeading: Cybersecurity Terminology Portal
+portalDescription: >-
+  GrackerAI boosts cybersecurity SaaS marketing with targeted traffic and
+  quality leads, using AI-driven content creation and industry-specific
+  programmatic SEO to dominate niche keyword rankings.
+portalTitle: Cybersecurity Terminology - GrackerAI
+searchPlaceholder: Search cybersecurity terms...
+useAlphabetsCategory: true
+homeLink: https://gracker.ai/
+logoLink: https://gracker.ai/
+ctaText: Get Started
+aboutLink: https://gracker.ai/about
+productsLink: https://gracker.ai/products
+logoImgUrl: https://gracker.ai/logo.png
+ctaLink: https://gracker.ai/get-started
+copyrightText: © 2023 GrackerAI. All rights reserved.
+faviconUrl: https://gracker.ai/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/grackerai
+  - platform: LinkedIn
+    url: https://linkedin.com/company/grackerai
+theme:
+  primaryColor: '#1a1a1a'
+  secondaryColor: '#f0f0f0'
+  backgroundColor: '#ffffff'
+  textColor: '#333333'
+  accentColor: '#ff5722'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
